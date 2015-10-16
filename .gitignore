@@ -1,1 +1,8 @@
-temp
+/temp/
+/debug  
+/release  
+*.ncb  
+*.plg  
+*.opt  
+*.aps  
+/bin/
