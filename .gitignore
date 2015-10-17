@@ -6,3 +6,7 @@
 *.opt  
 *.aps  
 /bin/
+*.sdf
+/sln/*.opensdf
+/sln/*.suo
+/src/*.user
